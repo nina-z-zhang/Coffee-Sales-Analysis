@@ -29,6 +29,6 @@ To analyze four years of coffee shop sales data and identify growth opportunitie
 - **Time trends:** Sales data spans 2019–2022. I found that changes from month to month are very large and inconsistent. When comparing the same months over different years it shows that there is also no clearly repeating seasonal pattern in the data.
 
 ## Findings & Recommendations
-- **Double down on the US market** while developing targeted campaigns for Ireland, for its strong potential.
-- **Promote Excelsa and Liberica** as premium lines given their revenue leadership.
-- **Redesign loyalty card:** The loyalty program shows no measurable impact. The programme needs to be rethought with stronger incentives, such as rewards based on spending or exclusive products for members, to give customers a real reason to return.
+- Focus on the US market while developing targeted campaigns for Ireland, for its strong potential.
+- Promote Excelsa and Liberica as premium lines given their revenue leadership.
+- Redesign loyalty card, as the loyalty program now shows no measurable impact. The programme needs to be rethought with stronger incentives, such as rewards based on spending or exclusive products for members, to give customers a real reason to return.
